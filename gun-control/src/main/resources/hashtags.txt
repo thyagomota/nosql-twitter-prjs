@@ -1,0 +1,103 @@
+# pro-gun control organizations and movements
+marchforourlives
+roadtochange
+notonemore
+nomore
+nora
+momsdemandaction
+marchonnra
+everytown
+everytownforgunsafety
+
+# pro-gun rights organizations and movements
+nra
+gunowners
+rkba
+armedandinformed
+keepandbeararms
+
+# gun-related in general
+gunsense
+gunviolence
+guncontrol
+guncontrolnow
+endgunviolence
+stopgunviolence
+gunreform
+gunreformnow
+gunrights
+gunlaws
+gunfreezones
+gunban
+gunbanlobby
+gunregulation
+assaultweaponsban
+semiautomaticban
+
+# 3d gun printing related
+3gun
+3dguns
+stop3dguns
+ghostgun
+3gunner
+3dgunprint
+3dgunprinting
+gunprint
+gunprinting
+stopdownloadableguns
+
+# massive shooting events
+# Sandy Hook Elementary School Shooting (December 14, 2012)
+sandyhook
+sandyhookshooting
+# San Bernardino Shooting (December 2, 2015)
+sanbernardinoshooting
+# Orlando Night Club Shooting (June 12, 2016)
+orlandoshooting
+pulsenightclub
+pulseorlando
+# Las Vegas Shooting (October 1, 2017)
+lasvegasshooting
+lasvegasstrong
+lasvegasmassacre
+1october
+# Sutherland Springs Church Shooting (November 5, 2017)
+sutherlandsprings
+sutherlandspringsshooting
+sutherlandshooting
+# Parkland School Shooting (February 14, 2018)
+parkland
+parklandshooting
+parklandstrong
+# Santa Fe School Shooting (May 18, 2018)
+santafeshooting
+santafestrong
+# Jacksonville Landing Shooting (August 26, 2018)
+jacksonvillelanding
+thelandingmassshooting
+maddenshooting
+# general
+schoolshooting
+schoolshootings
+
+# 2nd amendment
+2a
+defendthesecond
+2adefenders
+2ndamendment
+secondamendment
+shallnotbeinfringed
+
+# concealed and open carry
+ccw
+concealedcarry
+campuscarry
+opencarry
+
+# not used anymore
+# silentnomore
+# menext
+# gunfreekids
+# dontarmteachers
+# booksnotbullets
+# buybooksnotguns

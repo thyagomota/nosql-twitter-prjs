@@ -1,0 +1,27 @@
+// delete all nodes in the graph
+MATCH (n)
+DETACH DELETE n;
+
+// load a CSV file from the import folder
+USING PERIODIC COMMIT 500
+LOAD CSV FROM 'file:///neo4j-script.csv' AS line
+MERGE (a:User { name: line[0]}) MERGE (b:User { name: line[1]}) CREATE (a)-[r1:retweets]->(b)
+
+// display the graph
+MATCH (n)
+RETURN n;
+
+// obtain degree centrality
+MATCH (n:User)
+RETURN n, size ((n)<-[:retweets]-()) AS degree ORDER BY degree DESC LIMIT 25;
+
+// run Louvain algorithm
+CALL algo.louvain.stream('User', 'retweets', {})
+YIELD nodeId, community
+
+// run page rank algorithm
+CALL algo.pageRank.stream('User', 'retweets', {iterations:20, dampingFactor:0.85})
+YIELD nodeId, score
+
+RETURN algo.getNodeById(nodeId).name AS user, score
+ORDER BY score DESC;
